@@ -22,6 +22,7 @@ public class MyApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(MyApplication.class, args);
+        System.out.println("练习合并分支之解决冲突");
     }
 
 }
