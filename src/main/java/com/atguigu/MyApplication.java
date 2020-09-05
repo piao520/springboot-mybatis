@@ -24,6 +24,7 @@ public class MyApplication {
         SpringApplication.run(MyApplication.class, args);
         System.out.println("我修改了");
         System.out.println("练习合并分支之解决冲突");
+        System.out.println("1111111");
     }
 
 }
